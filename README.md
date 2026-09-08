@@ -1,7 +1,7 @@
 # Snake – x86 Assembly (FASM) for Windows
 
-The classic **Snake** game written in pure **x86 assembly** and built with the
-**Flat Assembler (FASM)**.
+**Snake** game written in pure **x86 assembly** and built with the
+**Flat Assembler**.
 
 ---
 # Snake
@@ -9,6 +9,8 @@ The classic **Snake** game written in pure **x86 assembly** and built with the
 On launch a 10 × 10 field (200 × 200 px) opens and the difficulty selection is drawn inside it.
   Once a level is picked the labels disappear and the game starts immediately in that same,
   already visible field.
+  
+  ![Screenshot](ss.png)  
 
 ## Difficulty Levels
 
